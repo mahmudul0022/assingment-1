@@ -1,0 +1,72 @@
+header{
+    background-image: url('../images/banner/banner1.png');
+    width: 1600px;
+    height: 808px;
+}
+.banner{
+    text-align: right;
+    padding-left: 830px;
+padding-right: 230px;
+padding-top: 216px;
+padding-bottom: 345px;
+}
+.banner-button{
+    background-color: orange;
+    width: 160px;
+    height: 64px;
+}
+.about-me{
+    display: flex;
+  width: 1072px;
+  height: 723.3px;
+margin-top: 130px;
+margin-left: 206px;
+}
+.about-me-description{
+    padding-top: 200px;
+
+}
+.section-title{
+    text-align: center;
+}
+.skills{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 230px;
+    margin-right: 230px;
+
+}
+.button-section{
+    background-image: url('../images/watch.png');
+    width: 1140px;
+    height: 300px;
+   margin-top: 130px;
+   margin-left: 130px;
+   margin-right: 230px;
+   background-repeat: no-repeat;
+   margin-bottom: 130px;
+}
+.button-section-heading{
+    text-align: left;
+    padding-top: 59px;
+    padding-left: 64px;
+}
+.primary-button{
+    margin-left: 64px;
+
+}
+
+.contact .section-title{
+    text-align: left;
+
+}
+.contact{
+    display: flex;
+    gap: 100px;
+    padding: 130px 200px;
+  background-color: antiquewhite;
+
+
+}
+
+
